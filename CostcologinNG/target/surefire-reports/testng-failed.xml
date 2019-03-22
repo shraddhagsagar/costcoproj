@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [test.com.CostcologinTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="test.com.CostcologinTest">
+        <methods>
+          <include name="testCostoLoginTestCase"/>
+          <include name="setUpMethod"/>
+          <include name="setUpClass"/>
+          <include name="tearDownMethod"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- test.com.CostcologinTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [test.com.CostcologinTest] -->
